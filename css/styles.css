@@ -14,15 +14,15 @@ License: Free to use for personal and commercial, but you need to place back lin
 }
 
 body {
-    font-size: 14px;
-    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
     -webkit-font-smoothing: antialiased;
-    background: #E4E4E4;
+    background:#9ACD32		;
 }
 
 ::selection {
     color: #fff;
-    background: #CC4646;
+    background: #CC4646; 
 }
 
 ::-moz-selection {
@@ -234,7 +234,7 @@ background: none;
 
 .navbar-brand b {
     color: #fff;
-	font-family: 'Pacifico', cursive;
+	font-family: 'Times New Roman', Times, serif;
 	font-weight:400;
 }
 
